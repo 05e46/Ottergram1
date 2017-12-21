@@ -1,7 +1,7 @@
 Heading
 ===
 #Heading2
-# Ottergram1
+# *Ottergram1
 Homework #1: Chapters 1-2 of book
 
 Completion of the reading
