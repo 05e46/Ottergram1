@@ -1,3 +1,4 @@
 Adding Images to Blank HTML File
 ======
-## Front-End Web Development
+##Intro to Front-End Web Development
+---------------------------------------
